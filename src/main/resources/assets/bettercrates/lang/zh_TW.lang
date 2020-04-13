@@ -1,0 +1,38 @@
+#General
+itemGroup.bettercrates=更好的板條箱
+
+#Crate
+tile.wooden_crate.name=§f木製板條箱
+tile.copper_crate.name=§f銅製板條箱
+tile.tin_crate.name=§f錫製板條箱
+tile.iron_crate.name=§f鐵製板條箱
+tile.golden_crate.name=§f金製板條箱
+tile.diamond_crate.name=§f鑽石製板條箱
+tile.obsidian_crate.name=§f黑曜石製板條箱
+
+#Crate tooltip
+item.crate_base.tooltip=§3破壞後保留內容物
+item.crate_base2.tooltip=§4爆炸保護
+
+#Upgrade
+item.up_wooden.name=木製升級
+item.up_copper.name=銅製升級
+item.up_tin.name=錫製升級
+item.up_iron.name=鐵製升級
+item.up_golden.name=鐵/金製升級
+item.up_golden2.name=銅/金製升級
+item.up_golden3.name=錫/金製升級
+item.up_diamond.name=鑽石製升級
+item.up_obsidian.name=黑曜石製升級
+
+#Upgrade tooltip
+item.up.tooltip_base=§7(§6§o潛行+右鍵使用§7)
+item.up_wooden.tooltip=§3升級 §4箱子 §7> §2木製板條箱
+item.up_copper.tooltip=§3升級 §4箱子 §7> §2銅製板條箱
+item.up_tin.tooltip=§3升級 §4箱子 §7> §2錫製板條箱
+item.up_iron.tooltip=§3升級 §4木製板條箱 §7> §2鐵製板條箱
+item.up_golden.tooltip=§3升級 §4鐵製板條箱 §7> §2金製板條箱
+item.up_golden2.tooltip=§3升級 §4銅製板條箱 §7> §2金製板條箱
+item.up_golden3.tooltip=§3升級 §4錫製板條箱 §7> §2金製板條箱
+item.up_diamond.tooltip=§3升級 §4金製板條箱 §7> §2鑽石製板條箱
+item.up_obsidian.tooltip=§3升級 §4鑽石製板條箱 §7> §2黑曜石製板條箱
